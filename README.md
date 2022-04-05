@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **vieira.mvlima@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vieiramarcus18/](https://www.linkedin.com/in/vieiramarcus18/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/vieiramarcus18/)
 
-- ⚡ Fun fact **I'm an Aircraft Designer**
+- ⚡ Fun fact **I used to be an Aircraft Designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
