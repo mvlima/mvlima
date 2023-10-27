@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcus Vieira</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, Node and GraphQL**
-
 - 📫 How to reach me **vieira.mvlima@gmail.com**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/vieiramarcus18/)
